@@ -28,6 +28,11 @@
 </p>
 
 <p align="center">
+  <b>Frontend & Tools</b><br />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
+</p>
+
+<p align="center">
   <b>Observability, Testing & Tools</b><br />
   <img src="https://skillicons.dev/icons?i=grafana,git,postman,docker,figma" />
 </p>
