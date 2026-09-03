@@ -39,11 +39,10 @@
 
 <br>
 
-<div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Zorbaloft&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Zorbaloft GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorbaloft&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zorbaloft GitHub Streak" />
-  <br /><br />
-  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Zorbaloft&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Zorbaloft Most Used Languages" />
-</div>
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Zorbaloft&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Zorbaloft GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorbaloft&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zorbaloft GitHub Streak" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Zorbaloft&langs_count=4&theme=transparent&layout=donut&border_radius=10&show_icons=true&locale=en" alt="Zorbaloft Most Used Languages" />
+</p>
 
 <hr>
