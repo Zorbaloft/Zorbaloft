@@ -23,8 +23,13 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,Symfony,Laravel,Go,python,mongodb,postgres,sql" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redis,d3,git,postman,figma" />
+  <b>Backend & Databases</b><br />
+  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,go,python,postgres,mongodb,redis" />
+</p>
+
+<p align="center">
+  <b>Frontend & Tools</b><br />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
 <hr>
