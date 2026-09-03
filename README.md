@@ -39,18 +39,9 @@
 
 <br>
 
-<table border="0">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=Zorbaloft&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zorbaloft&theme=transparent&count_private=true&border_radius=10&locale=en" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Zorbaloft&langs_count=4&theme=transparent&layout=donut&border_radius=10&show_icons=true&locale=en" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Zorbaloft&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Zorbaloft GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Zorbaloft&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Zorbaloft GitHub Streak" />
+</p>
 
 <hr>
