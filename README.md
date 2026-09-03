@@ -1,25 +1,19 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Gaspar!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+### A full-stack software engineer although i have to admit back-end its where i shine :).
+- 🌱 I’m currently diving deep into **[Distributed Systems][Event-Driven Architecture][High-Scalability Patterns]**
+- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/miguel-gaspar-69aa79259/])**
 
 <br>
 
 <div align="center">
-  <a href="chijiokeokorji@gmail.com">
+  <a href="miguelgaspar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -29,8 +23,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=php,Symfony,Laravel,Go,python,mongodb,postgres,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redis,d3,git,postman,figma" />
 </p>
 
 <hr>
