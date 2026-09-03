@@ -28,8 +28,13 @@
 </p>
 
 <p align="center">
-  <b>Frontend & Tools</b><br />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
+  <b>Observability, Testing & Tools</b><br />
+  <img src="https://skillicons.dev/icons?i=grafana,git,postman,docker,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bugsnag-E8402A?style=flat-square&logo=bugsnag&logoColor=white" />
+  <img src="https://img.shields.io/badge/MockServer-000000?style=flat-square&logo=json&logoColor=white" />
 </p>
 
 <hr>
