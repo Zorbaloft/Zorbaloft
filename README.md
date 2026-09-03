@@ -1,7 +1,7 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Gaspar!;" />
 </h3>
-
+<hr>
 A full-stack software engineer, although I have to admit back-end is where I shine :).
 
 - 🌱 I'm currently diving deep into **Distributed Systems**, **Event-Driven Architecture**, and **High-Scalability Patterns**
