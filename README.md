@@ -40,6 +40,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bugsnag-E8402A?style=flat-square&logo=bugsnag&logoColor=white" />
   <img src="https://img.shields.io/badge/MockServer-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 </p>
 
 <hr>
