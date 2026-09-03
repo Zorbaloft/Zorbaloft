@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Gaspar!;" />
 </h3>
 <hr>
-A full-stack software engineer, although I have to admit back-end is where I shine :).
+Full-stack software engineer, with a strong focus on backend systems and distributed architectures.
 
 - 🌱 I'm currently diving deep into **Distributed Systems**, **Event-Driven Architecture**, and **High-Scalability Patterns**
 - 📬 Connect with me on [LinkedIn](https://linkedin.com/in/miguel-gaspar-69aa79259) | [Gmail](mailto:teu-email@gmail.com)
@@ -18,7 +18,7 @@ A full-stack software engineer, although I have to admit back-end is where I shi
 
 <p align="center">
   <b>Frontend, Tools & Observability</b><br />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,grafana,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,vue,git,postman,grafana,docker,figma" />
 </p>
 
 <p align="center">
@@ -42,3 +42,5 @@ A full-stack software engineer, although I have to admit back-end is where I shi
     </td>
   </tr>
 </table>
+
+![GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=MiguelGaspar-15)
