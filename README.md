@@ -42,5 +42,3 @@ Full-stack software engineer, with a strong focus on backend systems and distrib
     </td>
   </tr>
 </table>
-
-![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=MiguelGaspar-15)
